@@ -27,10 +27,17 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              {
+                "glob": "**/*",
+                "input": "./node_modules/@ti-tecnologico-de-monterrey-oficial/ds-ng/assets/fonts/",
+                "output": "/assets/fonts/"
+              }
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss", 
+              "node_modules/@ti-tecnologico-de-monterrey-oficial/ds-ng/assets/styles/main.min.css",
+              "src/assets/my-styles.scss"
             ],
             "scripts": []
           },
@@ -97,5 +104,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "f85c04a0-1a5c-4216-ac86-3c92a1b22663"
   }
 }
