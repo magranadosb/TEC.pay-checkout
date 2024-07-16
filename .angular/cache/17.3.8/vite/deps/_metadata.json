@@ -1,0 +1,43 @@
+{
+  "hash": "f776fbd3",
+  "configHash": "b16a9578",
+  "lockfileHash": "58647127",
+  "browserHash": "b9aac781",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "d4b42474",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "df4a7066",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "0545ba2e",
+      "needsInterop": false
+    },
+    "@ti-tecnologico-de-monterrey-oficial/ds-ng": {
+      "src": "../../../../../node_modules/@ti-tecnologico-de-monterrey-oficial/ds-ng/fesm2022/ti-tecnologico-de-monterrey-oficial-ds-ng.mjs",
+      "file": "@ti-tecnologico-de-monterrey-oficial_ds-ng.js",
+      "fileHash": "43cf3c53",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-RHANKBE2": {
+      "file": "chunk-RHANKBE2.js"
+    },
+    "chunk-F7P2N5GX": {
+      "file": "chunk-F7P2N5GX.js"
+    },
+    "chunk-SXCL5ZXZ": {
+      "file": "chunk-SXCL5ZXZ.js"
+    }
+  }
+}
